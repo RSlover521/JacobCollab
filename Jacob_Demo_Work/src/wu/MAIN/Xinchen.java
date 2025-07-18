@@ -11,5 +11,7 @@ public class Xinchen{
 		else { // not odd, else it is even
 			System.out.println("n is even");
 		}
+		
+		System.out.println("test");
 	}
 }
