@@ -12,6 +12,6 @@ public class Xinchen{
 			System.out.println("n is even");
 		}
 		
-		System.out.println("test");
+		System.out.println("test 2");
 	}
 }
