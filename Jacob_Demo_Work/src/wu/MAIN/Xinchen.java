@@ -13,5 +13,6 @@ public class Xinchen{
 		}
 		
 		System.out.println("test 2");
+		System.out.println("Jacob is definitely gay (test message pls ignore)");
 	}
 }
