@@ -2,17 +2,10 @@ package wu.MAIN;
 
 public class Xinchen{
 	public static void main(String[] args) {
-		// %: modulo (mod)
-		int n = 3;
-		// if n modulo 2 is exactly 1
-		if(n % 2 == 1) { // checks if n is odd
-			System.out.println("n is odd");
+		// pro tip: always put your task before doing your homework or other projects
+		// Homework 4: print from 20 to 0
+		for (int i = 20; i >= 0; i--) {
+			System.out.println(i);
 		}
-		else { // not odd, else it is even
-			System.out.println("n is even");
-		}
-		
-		System.out.println("test 2");
-		System.out.println("Jacob is definitely gray (test message pls ignore)");
 	}
 }
