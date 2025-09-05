@@ -6,7 +6,7 @@ public class Xinchen {
 	public static void main(String[] args) {
 		// Creating an instance (an object) of scanner
 		Scanner scan = new Scanner(System.in);
-		
+		//mnigwer
 		// prints something that prompts the user to enter the number of quarter
 		System.out.print("Enter your number of quarters: ");
 		
