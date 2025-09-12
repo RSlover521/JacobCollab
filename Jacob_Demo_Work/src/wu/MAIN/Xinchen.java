@@ -6,6 +6,7 @@ public class Xinchen {
 		System.out.println("I ate lebroonickers");
 		
 		// print hello world
+		System.out.println("hello world");
 		
 	}
 }
