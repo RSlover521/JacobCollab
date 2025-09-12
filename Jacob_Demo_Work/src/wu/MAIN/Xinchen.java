@@ -5,6 +5,7 @@ public class Xinchen {
 		// print i love lebron
 		System.out.println("I ate lebroonickers");
 		
-		// hi
+		// print hello world
+		
 	}
 }
