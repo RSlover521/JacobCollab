@@ -7,6 +7,9 @@ public class Xinchen {
 		
 		// print hello world
 		System.out.println("hello world");
+	
+		// print "the elephant dog"
+		
 		
 	}
 }
