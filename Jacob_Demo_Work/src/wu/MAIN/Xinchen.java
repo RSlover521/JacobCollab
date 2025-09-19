@@ -7,7 +7,7 @@ public class Xinchen {
 		
 		
 		// print "nigger"
-		
+		System.out.println("nigger");
 		
 	}
 }
