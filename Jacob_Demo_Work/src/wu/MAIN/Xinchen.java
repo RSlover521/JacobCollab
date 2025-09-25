@@ -2,9 +2,7 @@ package wu.MAIN;
 
 public class Xinchen {
 	public static void main(String[] args) {
-		//write a line of c0de that prints "Siix-Savan"
-		System.out.println("Siix-Savan");
-		System.out.println("6-7");                                                                      
+		// write a line of code that creates a Scanner object and call it scan (do you remember hwo to do it?)
 		
 	}
 }
