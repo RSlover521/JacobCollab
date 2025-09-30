@@ -2,7 +2,7 @@ package wu.MAIN;
 
 public class Xinchen {
 	public static void main(String[] args) {
-		// write a line of code that creates a Scanner object and call it scan (do you remember hwo to do it?)
+		// write a line of code that creates a Scanner object and call it scan (do you remember how to do it?)
 		
 	}
 }
